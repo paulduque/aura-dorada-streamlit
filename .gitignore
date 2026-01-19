@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Streamlit
+.streamlit/
+
+# Excel temporales
+~$*.xlsx
+
+# Sistema
+.DS_Store
